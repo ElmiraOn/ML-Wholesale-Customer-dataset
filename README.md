@@ -1,7 +1,5 @@
 # ML-Wholesale-Customer-dataset
 
-Differentiate Penguin Species
-
 In this project we are going to perform exploartory data analysis and create machine learning models using following:
 
    * K-mean
